@@ -1,2 +1,26 @@
 @charset "UTF-8";
 
+:root {
+    --cor0: #e9eef2;
+    --cor1: #d0e2f2;
+    --cor2: #048abf;
+    --cor3: #04b2d9;
+    --cor4: #0388a6;
+    --cor5: #000000;
+    --cor6: #ffffff;
+}
+
+body {
+    margin: 0;
+    color: #e9eef2; 
+    opacity: 0.6;
+    background-image: url(../img/background-saae.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+
+main {
+    z-index: 2;
+}
+
