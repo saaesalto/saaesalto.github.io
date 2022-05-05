@@ -10,17 +10,16 @@
     --cor6: #ffffff;
 }
 
-body {
+* {
     margin: 0;
-    color: #e9eef2; 
-    opacity: 0.6;
-    background-image: url(../img/background-saae.png);
+}
+
+body {
+    background-color: var(--cor1);
+    background-image: url(../img/background-saae-transparente40.png);
     background-size: cover;
     background-repeat: no-repeat;
-    z-index: 1;
+    background-attachment: scroll;
+    max-width: 1600px;
+    min-width: 720px;
 }
-
-main {
-    z-index: 2;
-}
-
