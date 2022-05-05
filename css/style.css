@@ -23,3 +23,8 @@ body {
     max-width: 1600px;
     min-width: 720px;
 }
+
+#logo {
+    border: 1px solid --cor1;
+    border-radius: 50%;
+}
