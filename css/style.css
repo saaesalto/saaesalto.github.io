@@ -21,7 +21,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     max-width: 1600px;
-    min-width: 320px;
+    min-width: 300px;
     font: normal 16px Roboto, monospace;
 }
 
