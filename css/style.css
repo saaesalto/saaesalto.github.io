@@ -26,11 +26,11 @@ body {
 }
 
 main {
-    width: 100vw;
+    width: 100%;
 }
 
 header {
-    width: 100vw;
+    width: 100%;
     background-color: var(--cor4);
     display: flex;
     align-items: center;
@@ -70,7 +70,7 @@ article {
 }
 
 footer {
-    width: 100vw;
+    width: 100%;
     background-color: var(--cor4);
     color: var(--cor6);
     font-size: 0.9rem;
