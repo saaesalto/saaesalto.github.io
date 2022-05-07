@@ -30,6 +30,7 @@ main {
 }
 
 header {
+    width: 100vw;
     background-color: var(--cor4);
     display: flex;
     align-items: center;
@@ -69,6 +70,7 @@ article {
 }
 
 footer {
+    width: 100vw;
     background-color: var(--cor4);
     color: var(--cor6);
     font-size: 0.9rem;
