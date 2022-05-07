@@ -69,6 +69,9 @@ article {
 }
 
 footer {
+    background-color: var(--cor4);
+    color: var(--cor6);
     font-size: 0.9rem;
     text-align: center;
+    padding: 20px;
 }
