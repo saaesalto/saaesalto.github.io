@@ -44,8 +44,8 @@ header {
 }
 
 nav {
-    margin-left: 70px;
-    margin-right: 40px;
+    margin-left: 130px;
+    margin-right: 70px;
 }
 
 nav > a {
@@ -54,7 +54,7 @@ nav > a {
     font-size: 1.2rem;
     font-weight: bold;
     line-height: 1.3;
-    margin-left: 10px;
+    margin-left: 20px;
     padding: 3px;
 }
 
